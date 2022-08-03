@@ -1,0 +1,73 @@
+export const menuItemsData = [
+  {
+    id: 1,
+    name: "Tomato Basil Italian Pizza",
+   description:"Dressed with oil and oregano and garlic ",
+    price: 400,
+    img: "https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523__340.jpg",
+  },
+  {
+    id: 2,
+    name: "Bombay Pizza",
+   description:"lots of herbs with bombay style pizza with cheese",
+    price: 250,
+    img: "https://cdn.pixabay.com/photo/2020/06/08/16/49/pizza-5275191__340.jpg",
+  },
+  {
+    id: 3,
+    name: "Oregano Pizza",
+   description:"Pizza garnishing with tops of oregano and tomato",
+    price: 300,
+    img: "https://cdn.pixabay.com/photo/2016/11/29/13/02/cheese-1869708__340.jpg",
+  },
+  {
+    id: 4,
+    name: "Sicilia Pizza",
+   description:"A thick base pizza with fresh tomato paste  mushroom garlic  onions",
+    price: 500,
+    img: "https://cdn.pixabay.com/photo/2014/07/08/12/34/pizza-386717__340.jpg",
+  },
+  {
+    id: 5,
+    name: "Cheese burger",
+   description:"A burger filled with good layer of cheese ",
+    price: 350,
+    img: "https://cdn.pixabay.com/photo/2020/03/21/11/17/burger-4953465__340.jpg",
+  },
+  {
+    id: 6,
+    name: "Tomato Extra Chesses Burger",
+   description:"Pizza with spicy tomato sauce with extra cheese topings",
+    price: 150,
+    img: "https://cdn.pixabay.com/photo/2019/01/29/18/05/burger-3962996__340.jpg",
+  },
+
+  {
+    id: 7,
+    name: "Chicken Pattie Burger",
+   description:"Burger with chicken patties and Lots of vegetables",
+    price: 240,
+    img: "https://cdn.pixabay.com/photo/2016/03/26/23/19/hamburger-1281855__340.jpg",
+  },
+  {
+    id: 8,
+    name: "Kolkata Style Burger",
+   description:" Burger with thick layer of butter and fresh vegetables and herbs ",
+    price: 280,
+    img: "https://cdn.pixabay.com/photo/2017/02/05/21/06/burger-2041192__340.jpg",
+  },
+  {
+    id: 9,
+    name: " Dominos Pizza Burger",
+   description:" Burger with lots  and fresh vegetables and herbs and mushroom ",
+    price: 440,
+    img: "https://cdn.pixabay.com/photo/2017/01/31/08/32/meatballs-2023247__340.jpg",
+  },
+  {
+    id: 10,
+    name: "Mac n cheese pizza",
+   description:" Pizza base with spicy sauce filled with cheese and filled with pepper ",
+    price:580,
+    img: "https://cdn.pixabay.com/photo/2015/04/28/21/20/pizza-744405__340.jpg",
+  },
+];

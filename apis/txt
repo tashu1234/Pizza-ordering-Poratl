@@ -1,0 +1,75 @@
+// const handleClick = (item) => {
+//         if (cart.indexOf(item) !== -1) return;
+//         setCart([...cart, item]); 
+//       }
+//       fetch('http://localhost:3003/foodadd', {
+//             method: 'POST',
+//             body: JSON.stringify(cartItem),
+//             headers: {
+//                 'Content-type': "application/json; charset=UTF-8"
+//             }
+//         })
+//           .then(resp =>
+//             resp.json()
+//         )
+//            .then(dt => {
+//                alert('Item inserted successfully')
+//         })
+
+//         async function getProducts()
+//       {
+//         let insert = await fetch('http://localhost:3003/getFoodAll');
+//         insert = await insert.json();     
+        // const express = require('express');
+// const router = express.Router();
+// // const Post = require('/Post')
+
+
+
+// router.get('/FooodItem', async (req, res) => {
+//     try{
+//         const posts = await Post.find();
+//         res.json(posts)
+//     }catch(err){message:err}
+// });
+
+
+// // CREATING DATA
+// router.post('/',async (req,res) => {
+//         const post = new Post({
+            
+//             cart_item
+//         })
+//         try{
+//         const savedPost = await post.save()
+//          res.json(savedPost);
+//         }catch(err){
+//             res.json({message: err})
+//         }
+//          });
+
+         
+
+// // router.get('/:postId', async(req, res) => {
+// //     try{
+// //         const post = await Post.findById(req.params.postId);
+// //         res.json(post);
+// //     }catch(err){message:err}
+// // });
+
+
+
+// router.delete('/deleteFoodItem', async(req, res) => {
+//     try{
+//         const removedPost = await Post.remove({ _id: req.params.postId});
+//         res.json(removedPost);
+//     }catch(err){message:err}
+// });
+
+
+
+
+
+
+
+// module.exports = router;
